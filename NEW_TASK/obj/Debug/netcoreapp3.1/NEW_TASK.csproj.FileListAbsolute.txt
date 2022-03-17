@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.exe
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.deps.json
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.runtimeconfig.json
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.dll
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\bin\Debug\netcoreapp3.1\NEW_TASK.pdb
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.dll
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.pdb
+C:\Users\ilkin\source\repos\NEW_TASK\NEW_TASK\obj\Debug\netcoreapp3.1\NEW_TASK.genruntimeconfig.cache
